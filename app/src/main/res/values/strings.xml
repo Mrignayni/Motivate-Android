@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inspire</string>
+    <string name="share_body">%1$s\n-%2$s\n\nDownload Inspire for Android https://play.google.com/store/apps/details?id=com.jozapps.inspire or iOS https://itunes.apple.com/us/app/inspired-daily/id1006349459</string>
+    <string name="share_title">Inspirational quote from %1$s</string>
+    <string name="notification_title">Quote from %1$s</string>
+    <string name="notification">Notification</string>
+
+</resources>
