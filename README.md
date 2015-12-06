@@ -1,3 +1,3 @@
-# Inspire for Android
+# Motivate for Android
 
 
